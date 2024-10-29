@@ -1,5 +1,5 @@
 {
-  "name": "imdb-clone-be",
+  "name": "imdb-clone-backend",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -16,7 +16,7 @@
     "cors": "^2.8.5",
     "dotenv": "^16.4.5",
     "express": "^4.21.1",
-    "imdb-clone-be": "file:",
+    "imdb-clone-backend": "file:",
     "jsonwebtoken": "^9.0.2",
     "mongoose": "^8.7.3"
   },
